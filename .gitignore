@@ -1,0 +1,6 @@
+chunks/
+intermediate/
+reducer_outputs/
+reducer_inputs/
+data.txt
+final_result.txt

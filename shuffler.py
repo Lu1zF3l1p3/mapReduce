@@ -3,7 +3,6 @@ import os
 from collections import defaultdict
 import hashlib
 
-NUM_REDUCERS = 5
 
 def shuffler():
     intermediate_files = os.listdir('intermediate/')

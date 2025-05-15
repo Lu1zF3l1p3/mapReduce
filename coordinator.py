@@ -4,8 +4,8 @@ import time
 import logging
 import os
 
-NUM_MAPPERS = 5
-NUM_REDUCERS = 5
+NUM_MAPPERS = 7
+NUM_REDUCERS = 7
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
